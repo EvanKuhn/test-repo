@@ -1,3 +1,4 @@
 foo!
 heyo
 test disable
+test reenable
